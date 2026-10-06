@@ -15,5 +15,5 @@ screenshot: ../../pages/landen/screenshot.webp
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 3. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-4. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
+4. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 5. [Site Footer](../components/site-footer.md)

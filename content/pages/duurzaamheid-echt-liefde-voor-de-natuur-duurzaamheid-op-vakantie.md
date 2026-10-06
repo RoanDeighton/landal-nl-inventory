@@ -12,12 +12,12 @@ screenshot: ../../pages/duurzaamheid-echt-liefde-voor-de-natuur-duurzaamheid-op-
 
 ## Section outline (top to bottom)
 
-1. [Page Title Bar](../components/page-title-bar.md)
+1. [Heading Bar](../components/heading-bar.md)
 2. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 3. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-4. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-5. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-6. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-7. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
+4. [Image Tile Grid](../components/image-tile-grid.md)
+5. [Image Tile Grid](../components/image-tile-grid.md)
+6. [Image Tile Grid](../components/image-tile-grid.md)
+7. [Image Tile Grid](../components/image-tile-grid.md)
 8. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 9. [Site Footer](../components/site-footer.md)

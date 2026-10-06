@@ -14,6 +14,6 @@ screenshot: ../../pages/parken-aelderholt-accommodaties-6cd/screenshot.webp
 
 1. [Accommodation Hero with Price Card](../components/accommodation-hero-with-price-card.md)
 2. [Price and Availability Calendar](../components/price-and-availability-calendar.md)
-3. [Image Tile Pair with Overlay Titles](../components/image-tile-pair-with-overlay-titles.md)
+3. [Image Tile Grid](../components/image-tile-grid.md)
 4. [Feature List Columns](../components/feature-list-columns.md)
 5. [Site Footer](../components/site-footer.md)

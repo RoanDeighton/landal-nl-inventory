@@ -12,6 +12,6 @@ screenshot: ../../pages/landen-denemarken-jutland-eropuit/screenshot.webp
 
 ## Section outline (top to bottom)
 
-1. [Region Photo Tile Grid](../components/region-photo-tile-grid.md)
+1. [Image Tile Grid](../components/image-tile-grid.md)
 2. [FAQ Accordion with Topic Menu](../components/faq-accordion-with-topic-menu.md)
 3. [Site Footer](../components/site-footer.md)

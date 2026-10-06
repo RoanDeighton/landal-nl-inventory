@@ -14,9 +14,9 @@ screenshot: ../../pages/landen-denemarken-jutland/screenshot.webp
 
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-3. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
-4. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
+3. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
+4. [Image Tile Grid](../components/image-tile-grid.md)
 5. [Breadcrumb Trail](../components/breadcrumb-trail.md)
-6. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
+6. [Image Tile Grid](../components/image-tile-grid.md)
 7. [Text Card with Image](../components/text-card-with-image.md)
 8. [Site Footer](../components/site-footer.md)

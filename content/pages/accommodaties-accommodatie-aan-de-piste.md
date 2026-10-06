@@ -13,7 +13,7 @@ screenshot: ../../pages/accommodaties-accommodatie-aan-de-piste/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-2. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
-3. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
+2. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
+3. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 4. [Text Card with Image](../components/text-card-with-image.md)
 5. [Site Footer](../components/site-footer.md)

@@ -13,6 +13,6 @@ screenshot: ../../pages/campagnes-pauze-deals/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
-2. [Conditions Heading](../components/conditions-heading.md)
+2. [Heading Bar](../components/heading-bar.md)
 3. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 4. [Site Footer](../components/site-footer.md)

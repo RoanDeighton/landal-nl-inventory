@@ -13,6 +13,6 @@ screenshot: ../../pages/aanbiedingen/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-2. [Holiday Period Cards](../components/holiday-period-cards.md)
+2. [Image Card Grid](../components/image-card-grid.md)
 3. [FAQ Accordion with Topic Menu](../components/faq-accordion-with-topic-menu.md)
 4. [Site Footer](../components/site-footer.md)

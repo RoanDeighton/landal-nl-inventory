@@ -13,7 +13,7 @@ screenshot: ../../pages/duurzaamheid-echt-liefde-voor-de-natuur/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-2. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
+2. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 3. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 4. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 5. [Breadcrumb Trail](../components/breadcrumb-trail.md)

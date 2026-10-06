@@ -14,8 +14,8 @@ screenshot: ../../pages/thema-wandelen/screenshot.webp
 
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-3. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-4. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
+3. [Image Tile Grid](../components/image-tile-grid.md)
+4. [Image Tile Grid](../components/image-tile-grid.md)
 5. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 6. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 7. [Text Card with Image](../components/text-card-with-image.md)

@@ -14,5 +14,5 @@ screenshot: ../../pages/algemeen-affiliates/screenshot.webp
 
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-3. [Promo Block with Image and Button](../components/promo-block-with-image-and-button.md)
+3. [Promo Block with Image](../components/promo-block-with-image.md)
 4. [Site Footer](../components/site-footer.md)

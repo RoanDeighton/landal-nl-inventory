@@ -12,7 +12,7 @@ screenshot: ../../pages/mijn-boekingen/screenshot.webp
 
 ## Section outline (top to bottom)
 
-1. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
-2. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
+1. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
+2. [Image Tile Grid](../components/image-tile-grid.md)
 3. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 4. [Site Footer](../components/site-footer.md)

@@ -1,5 +1,5 @@
 ---
-title: Park Listing with Filter Sidebar
+title: Listing with Filter Sidebar
 class: c-listing-layout__filters c-static-page-content c-image-background-layout
 examples:
   - image: ../../pages/aanbiedingen-winter-vuurwerkvrij/crop-park-listing-with-filter-sidebar.webp
@@ -7,6 +7,9 @@ examples:
   - image: ../../pages/aanbiedingen-winter-vuurwerkvrij/crop-park-card-grid-with-sort-bar.webp
     capturedFromPage: aanbiedingen-winter-vuurwerkvrij
     label: With sort bar
+  - image: ../../pages/parken-ameland-state-last-minutes/crop-accommodation-listing-with-filter-sidebar.webp
+    capturedFromPage: parken-ameland-state-last-minutes
+    label: Accommodation types
 usedOn:
   - aanbiedingen-herfst
   - aanbiedingen-voorjaar
@@ -19,7 +22,10 @@ usedOn:
   - algemeen-klachtenprocedure
   - algemeen-privacy
   - bestemmingen-accommodaties
+  - bestemmingen-belgie
   - bestemmingen-nederland-groningen
+  - bestemmingen-nederland-waddeneilanden-texel
+  - bestemmingen-parken
   - campagnes-you-need-this-bromance
   - duurzaamheid
   - duurzaamheid-echt-liefde-voor-de-natuur
@@ -43,6 +49,7 @@ usedOn:
   - parken-aelderholt-prijzen-en-beschikbaarheid
   - parken-alpine-lodge-lenzerheide
   - parken-alpine-lodge-lenzerheide-prijzen-en-beschikbaarheid
+  - parken-ameland-state-last-minutes
   - parken-ameland-state-prijzen-en-beschikbaarheid
   - parken-amerongse-berg-op-en-rond-het-park
   - parken-beach-park-texel-praktische-info

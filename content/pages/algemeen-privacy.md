@@ -16,5 +16,5 @@ screenshot: ../../pages/algemeen-privacy/screenshot.webp
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 3. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 4. [Cookie Consent Settings Panel](../components/cookie-consent-settings-panel.md)
-5. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
+5. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 6. [Site Footer](../components/site-footer.md)

@@ -13,6 +13,6 @@ screenshot: ../../pages/bestemmingen/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-2. [Region Photo Tile Grid](../components/region-photo-tile-grid.md)
+2. [Image Tile Grid](../components/image-tile-grid.md)
 3. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 4. [Site Footer](../components/site-footer.md)

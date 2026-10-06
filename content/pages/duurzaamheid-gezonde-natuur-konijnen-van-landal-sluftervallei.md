@@ -13,6 +13,6 @@ screenshot: ../../pages/duurzaamheid-gezonde-natuur-konijnen-van-landal-slufterv
 ## Section outline (top to bottom)
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-2. [Promo Block with Image and Button](../components/promo-block-with-image-and-button.md)
+2. [Promo Block with Image](../components/promo-block-with-image.md)
 3. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 4. [Site Footer](../components/site-footer.md)

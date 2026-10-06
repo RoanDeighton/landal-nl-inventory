@@ -12,8 +12,8 @@ screenshot: ../../pages/bestemmingen-belgie/screenshot.webp
 
 ## Section outline (top to bottom)
 
-1. [Region Photo Tile Grid](../components/region-photo-tile-grid.md)
-2. [Accommodation Listing with Filter Sidebar](../components/accommodation-listing-with-filter-sidebar.md)
+1. [Image Tile Grid](../components/image-tile-grid.md)
+2. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 3. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 4. [Text Card with Image](../components/text-card-with-image.md)
 5. [Text Card with Image](../components/text-card-with-image.md)

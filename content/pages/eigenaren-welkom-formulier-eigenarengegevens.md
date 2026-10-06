@@ -16,7 +16,7 @@ screenshot: ../../pages/eigenaren-welkom-formulier-eigenarengegevens/screenshot.
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 3. [Form Section](../components/form-section.md)
 4. [Form Section](../components/form-section.md)
-5. [Conditions Heading](../components/conditions-heading.md)
+5. [Heading Bar](../components/heading-bar.md)
 6. [Form Section](../components/form-section.md)
 7. [Form Section](../components/form-section.md)
 8. [Site Footer](../components/site-footer.md)

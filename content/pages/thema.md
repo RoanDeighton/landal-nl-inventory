@@ -14,8 +14,8 @@ screenshot: ../../pages/thema/screenshot.webp
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-3. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-4. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-5. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
-6. [Accommodation Type Carousel](../components/accommodation-type-carousel.md)
+3. [Image Tile Grid](../components/image-tile-grid.md)
+4. [Image Tile Grid](../components/image-tile-grid.md)
+5. [Image Tile Grid](../components/image-tile-grid.md)
+6. [Image Tile Grid](../components/image-tile-grid.md)
 7. [Site Footer](../components/site-footer.md)

@@ -13,5 +13,5 @@ screenshot: ../../pages/parken-ameland-state-last-minutes/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-2. [Accommodation Listing with Filter Sidebar](../components/accommodation-listing-with-filter-sidebar.md)
+2. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 3. [Site Footer](../components/site-footer.md)

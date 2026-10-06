@@ -6,11 +6,11 @@ title: "Landal NL: Site Inventory Overview"
 
 # Landal NL
 
-<p class="stats-line">77 captured pages, distilled into 49 page templates and 34 reusable components.</p>
+<p class="stats-line">77 captured pages, distilled into 49 page templates and 23 reusable components.</p>
 
 <!-- stat-blocks -->
 
-<p class="callout"><strong>Light pass.</strong> This covers landal.nl only (the /nl site). Every captured page is placed and linked with its own screenshot, and 34 components are identified and linked with a cropped example image and the pages that use them. None of it has a written description or a CMS data model yet. The sitemap lists 5,509 pages, including about 2,650 individual accommodation pages, about 250 park pages with several sub-pages each, and 133 news articles. The pages shown here are a sample of those, picked by the page types the site declares in its own markup: 2 to 3 pages per type, plus pages that show a kind of section nothing else does and a few types that only appear in the sitemap.</p>
+<p class="callout"><strong>Light pass.</strong> This covers landal.nl only (the /nl site). Every captured page is placed and linked with its own screenshot, and 23 components are identified and linked with a cropped example image and the pages that use them. None of it has a written description or a CMS data model yet. The sitemap lists 5,509 pages, including about 2,650 individual accommodation pages, about 250 park pages with several sub-pages each, and 133 news articles. The pages shown here are a sample of those, picked by the page types the site declares in its own markup: 2 to 3 pages per type, plus pages that show a kind of section nothing else does and a few types that only appear in the sitemap.</p>
 
 ## How this was made
 

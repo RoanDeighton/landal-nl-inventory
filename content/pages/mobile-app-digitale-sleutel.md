@@ -14,9 +14,9 @@ screenshot: ../../pages/mobile-app-digitale-sleutel/screenshot.webp
 
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-3. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
+3. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
 4. [Numbered Steps with Video Image](../components/numbered-steps-with-video-image.md)
-5. [Image and Text Teaser](../components/image-and-text-teaser.md)
-6. [Park Listing with Filter Sidebar](../components/park-listing-with-filter-sidebar.md)
-7. [Region Photo Tile Grid](../components/region-photo-tile-grid.md)
+5. [Promo Block with Image](../components/promo-block-with-image.md)
+6. [Listing with Filter Sidebar](../components/listing-with-filter-sidebar.md)
+7. [Image Tile Grid](../components/image-tile-grid.md)
 8. [Site Footer](../components/site-footer.md)
