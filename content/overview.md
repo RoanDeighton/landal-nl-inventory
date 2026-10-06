@@ -40,14 +40,3 @@ title: "Landal NL: Site Inventory Overview"
     </div>
   </li>
 </ol>
-
-## Site identity, at a glance
-
-Pulled from actual computed styles, not estimated from screenshots:
-
-<ul class="identity-list">
-  <li><strong>Base typeface:</strong> <code>Inter, arial, sans-serif</code>, 16px / weight 400</li>
-  <li><strong>Heading typeface:</strong> <code>"PP-Hatton Medium", sans-serif</code>, 32px on the homepage title</li>
-  <li><strong>Body text color:</strong> dark green-grey (<code>rgb(91, 99, 91)</code>) on a cream background (<code>rgb(255, 250, 233)</code>)</li>
-  <li><strong>Header and footer background:</strong> no fill of their own, so the cream page background shows through</li>
-</ul>
