@@ -16,7 +16,4 @@ examples:
     label: With intro note
 usedOn:
   - algemeen-inpaklijst
-  - eigenaren-welkom-formulier-eigenarengegevens
-  - mijn-account-login
-  - modellen-gezocht-inschrijfformulier
 ---

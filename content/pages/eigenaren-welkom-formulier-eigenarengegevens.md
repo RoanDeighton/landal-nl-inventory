@@ -14,9 +14,9 @@ screenshot: ../../pages/eigenaren-welkom-formulier-eigenarengegevens/screenshot.
 
 1. [Breadcrumb Trail](../components/breadcrumb-trail.md)
 2. [Hero Banner with Booking Picker](../components/hero-banner-with-booking-picker.md)
-3. [Checklist](../components/checklist.md)
-4. [Form Section with Intro Text](../components/form-section-with-intro-text.md)
+3. [Form Section](../components/form-section.md)
+4. [Form Section](../components/form-section.md)
 5. [Conditions Heading](../components/conditions-heading.md)
-6. [Checklist](../components/checklist.md)
-7. [Form Section with Intro Text](../components/form-section-with-intro-text.md)
+6. [Form Section](../components/form-section.md)
+7. [Form Section](../components/form-section.md)
 8. [Site Footer](../components/site-footer.md)

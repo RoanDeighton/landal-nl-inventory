@@ -25,7 +25,7 @@ title: "Landal: Components"
 | c-static-page-content | [Image and Text Teaser](image-and-text-teaser.md) | 5 |
 | main-content | [Accommodation Listing with Filter Sidebar](accommodation-listing-with-filter-sidebar.md) | 5 |
 | main-content | [FAQ Accordion with Topic Menu](faq-accordion-with-topic-menu.md) | 5 |
-| c-static-page-content form-group s-forms-section | [Checklist](checklist.md) | 4 |
+| c-static-page-content form-group s-forms-section | [Checklist](checklist.md) | 1 |
 | No class listed | [Numbered Steps with Video Image](numbered-steps-with-video-image.md) | 4 |
 | o-page-panel | [Holiday Period Cards](holiday-period-cards.md) | 3 |
 | c-content-block__title s-forms-text | [Conditions Heading](conditions-heading.md) | 3 |
@@ -33,7 +33,6 @@ title: "Landal: Components"
 | o-page-panel | [Icon Category Lists](icon-category-lists.md) | 3 |
 | No class listed | [Page Title Bar](page-title-bar.md) | 3 |
 | o-page-panel | [Activity Cards](activity-cards.md) | 3 |
-| s-forms-section | [Form Section with Intro Text](form-section-with-intro-text.md) | 2 |
 | o-page-panel | [Image Tile Pair with Overlay Titles](image-tile-pair-with-overlay-titles.md) | 2 |
 | main-content | [Price and Availability Calendar](price-and-availability-calendar.md) | 2 |
 | o-container | [Feature List Columns](feature-list-columns.md) | 2 |
@@ -44,3 +43,4 @@ title: "Landal: Components"
 | No class listed | [Contact Options Panel](contact-options-panel.md) | 1 |
 | c-footer | [Legal Footer Bar](legal-footer-bar.md) | 1 |
 | o-page-panel | [Cookie Consent Settings Panel](cookie-consent-settings-panel.md) | 1 |
+| s-forms-section o-island form-group | [Form Section](form-section.md) | 3 |
