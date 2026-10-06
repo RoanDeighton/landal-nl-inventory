@@ -1,0 +1,101 @@
+[
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Je hebt nog geen favorieten",
+    "digest": "h1p1i1a3b0f0",
+    "tag": "div",
+    "classes": "o-page-panel",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 140,
+    "width": 1440,
+    "height": 379
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      1,
+      3
+    ],
+    "heading": null,
+    "digest": "h0p0i0a0b0f0",
+    "tag": "div",
+    "classes": "o-region u-background-color-primary",
+    "backgroundColor": "rgb(255, 250, 233)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "60px",
+    "top": 579,
+    "width": 1440,
+    "height": 442
+  },
+  {
+    "path": "main>2",
+    "elPath": [
+      1,
+      1,
+      1,
+      4
+    ],
+    "heading": null,
+    "digest": "h0p0i0a0b0f0",
+    "tag": "div",
+    "classes": "o-page-panel o-region u-background-color-primary",
+    "backgroundColor": "rgb(255, 250, 233)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "60px",
+    "top": 1081,
+    "width": 1440,
+    "height": 506
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Service & contact",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 1646,
+    "width": 1440,
+    "height": 1564
+  }
+]

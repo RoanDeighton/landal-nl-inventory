@@ -1,0 +1,387 @@
+[
+ {
+  "url": "https://www.landal.nl/aanbiedingen/winter/vuurwerkvrij",
+  "pageType": "offer_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/ameland-state/last-minutes",
+  "pageType": "offer_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/campagnes/pauze-deals",
+  "pageType": "offer_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/accommodaties/accommodatie-aan-de-piste",
+  "pageType": "accommodations_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/accommodaties/villa",
+  "pageType": "accommodations_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/accommodaties/bungalow",
+  "pageType": "accommodations_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/bryn-morfydd",
+  "pageType": "park_homepage",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/aelderholt",
+  "pageType": "park_homepage",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/alpine-lodge-lenzerheide",
+  "pageType": "park_homepage",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/thema/wandelen",
+  "pageType": "theme_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/algemeen/inpaklijst",
+  "pageType": "theme_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/over-landal/natuurmonumenten/oerrr",
+  "pageType": "theme_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/vakanties/last-minutes/bungalow",
+  "pageType": "destinations_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/bestemmingen",
+  "pageType": "destinations_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/bestemmingen/belgie",
+  "pageType": "destinations_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/beach-resort-kamperland/praktische-info",
+  "pageType": "park_practical_information",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/aelderholt/praktische-info",
+  "pageType": "park_practical_information",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/beach-park-texel/praktische-info",
+  "pageType": "park_practical_information",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/bergresort-winterberg/omgeving",
+  "pageType": "park_surroundings",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/aelderholt/omgeving",
+  "pageType": "park_surroundings",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/ameland-state/omgeving",
+  "pageType": "park_surroundings",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/aelderholt/op-en-rond-het-park",
+  "pageType": "park_facilities",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/beach-resort-kamperland/op-en-rond-het-park",
+  "pageType": "park_facilities",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/amerongse-berg/op-en-rond-het-park",
+  "pageType": "park_facilities",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/aelderholt/prijzen-en-beschikbaarheid",
+  "pageType": "park_accommodation_listing",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/ameland-state/prijzen-en-beschikbaarheid",
+  "pageType": "park_accommodation_listing",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/alpine-lodge-lenzerheide/prijzen-en-beschikbaarheid",
+  "pageType": "park_accommodation_listing",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/gezonde-natuur/water-besparen",
+  "pageType": "sustainability_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/echt-liefde-voor-de-natuur/duurzaamheid-op-vakantie",
+  "pageType": "sustainability_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/green-key",
+  "pageType": "sustainability_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/wintersport/oostenrijk/hochkoenig",
+  "pageType": "wintersport",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/wintersport/duitsland",
+  "pageType": "wintersport",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/thema/eten-en-drinken",
+  "pageType": "theme_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/thema/vakantie-met-de-hond",
+  "pageType": "theme_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/contact-en-vragen/annuleren",
+  "pageType": "selfservice_faq",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/contact-en-vragen/landal-account-en-landal-app",
+  "pageType": "selfservice_faq",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/algemeen/betaalmogelijkheden",
+  "pageType": "general",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/algemeen/affiliates",
+  "pageType": "general",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/aelderholt/accommodaties/6cd",
+  "pageType": "accommodation_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/parken/clowance/accommodaties/4cth",
+  "pageType": "accommodation_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/nieuws/landal-oudehaske",
+  "pageType": "untyped:/nieuws",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/nieuws/verenigd-koninkrijk-twee-nieuwe-bestemmingen",
+  "pageType": "untyped:/nieuws",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/echt-liefde-voor-de-natuur",
+  "pageType": "untyped:/duurzaamheid",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/gezonde-natuur",
+  "pageType": "untyped:/duurzaamheid",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/aanbiedingen/herfst",
+  "pageType": "offer_detail_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/aanbiedingen/voorjaar",
+  "pageType": "offer_detail_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/mobile-app/digitale-sleutel",
+  "pageType": "app_detail",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/mijn-account/login",
+  "pageType": "account_login",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/bestemmingen/nederland/friesland",
+  "pageType": "region_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/algemeen/klachtenprocedure",
+  "pageType": "about",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl",
+  "pageType": "home",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/aanbiedingen",
+  "pageType": "offers_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/bestemmingen/parken",
+  "pageType": "park_listing",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/favorieten",
+  "pageType": "favorites_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/contact-en-vragen",
+  "pageType": "selfservice_contact",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/mijn-account/registreren",
+  "pageType": "account_create",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/mijn-boekingen",
+  "pageType": "my_bookings",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/echt-liefde-voor-de-natuur/onze-ambities",
+  "pageType": "sustainability_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/mijn-account/wachtwoord-vergeten",
+  "pageType": "account_forgotpassword",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/thema",
+  "pageType": "theme_overview",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/bestemmingen/accommodaties",
+  "pageType": "destinations_accommodations",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid",
+  "pageType": "sustainability_home",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/landen/denemarken/jutland/eropuit",
+  "pageType": "countries_inspirational",
+  "why": "sitemap only"
+ },
+ {
+  "url": "https://www.landal.nl/landen",
+  "pageType": "countries_inspirational",
+  "why": "sitemap only"
+ },
+ {
+  "url": "https://www.landal.nl/mijn-account/activate-account",
+  "pageType": "account_activate",
+  "why": "sitemap only"
+ },
+ {
+  "url": "https://www.landal.nl/mijn-account/homeowner-branche",
+  "pageType": "untyped:/mijn-account",
+  "why": "sitemap only"
+ },
+ {
+  "url": "https://www.landal.nl/eigenaren-welkom/formulier-eigenarengegevens",
+  "pageType": "untyped:/eigenaren-welkom",
+  "why": "sitemap only"
+ },
+ {
+  "url": "https://www.landal.nl/landal-blog/park-stories/live-cooking",
+  "pageType": "stories_blog_article",
+  "why": "sitemap only"
+ },
+ {
+  "url": "https://www.landal.nl/modellen-gezocht/inschrijfformulier",
+  "pageType": "theme_inspirational",
+  "why": "coverage: s-forms-section, o-island, form-group"
+ },
+ {
+  "url": "https://www.landal.nl/duurzaamheid/gezonde-natuur/konijnen-van-landal-sluftervallei",
+  "pageType": "sustainability_detail",
+  "why": "coverage: main-content, content-bottom"
+ },
+ {
+  "url": "https://www.landal.nl/algemeen/privacy",
+  "pageType": "general",
+  "why": "coverage: o-page-panel"
+ },
+ {
+  "url": "https://www.landal.nl/over-landal/algemene-voorwaarden/handelsregisternummers",
+  "pageType": "theme_inspirational",
+  "why": "coverage: main-content"
+ },
+ {
+  "url": "https://www.landal.nl/bestemmingen/nederland/waddeneilanden/texel",
+  "pageType": "theme_inspirational",
+  "why": "coverage: u-background-color-primary"
+ },
+ {
+  "url": "https://www.landal.nl/campagnes/cashback",
+  "pageType": "offer_detail",
+  "why": "coverage: ~h1"
+ },
+ {
+  "url": "https://www.landal.nl/thema/kust/oostzee",
+  "pageType": "theme_inspirational",
+  "why": "coverage: o-page-panel"
+ },
+ {
+  "url": "https://www.landal.nl/landen/denemarken/jutland",
+  "pageType": "region_inspirational",
+  "why": "type"
+ },
+ {
+  "url": "https://www.landal.nl/campagnes/you-need-this/bromance",
+  "pageType": "campaign_detail",
+  "why": "sitemap only"
+ }
+]

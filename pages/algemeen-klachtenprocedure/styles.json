@@ -1,0 +1,103 @@
+[
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": null,
+    "digest": "h0p0i0a3b0f0",
+    "tag": "section",
+    "classes": "content-top",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 80,
+    "width": 1440,
+    "height": 57
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Heb je een klacht?",
+    "digest": "h1p0i0a0b0f0",
+    "tag": "div",
+    "classes": "o-region o-region--small",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "10px",
+    "top": 177,
+    "width": 1440,
+    "height": 260
+  },
+  {
+    "path": "main>2",
+    "elPath": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "heading": null,
+    "digest": "h0p0i0a0b0f0",
+    "tag": "div",
+    "classes": "",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 447,
+    "width": 1440,
+    "height": 696
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Service & contact",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 1153,
+    "width": 1440,
+    "height": 1564
+  }
+]

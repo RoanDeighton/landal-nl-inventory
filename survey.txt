@@ -1,0 +1,13 @@
+www.landal.nl  (486 pages opened, 5536 URLs found)
+
+Scope: landal.nl, language /nl. Left out: 10723 other domain, 8 query string, 25 file, 7 subdomain, 3 pages that redirected off the domain.
+Standard survey: 486 pages opened in 5.7 min. Stopped because reached the page limit (500).
+Found through the menu or footer: 820, links on pages: 80.
+Sitemap: 5509 pages. 4636 of the site's pages are in the sitemap but were not found by following links.
+  not reached by links: /parken/[*]/[*]/[*]/[*] (64 pages). Run the full profile to look at them.
+  not reached by links: /landen/[*]/[*] (26 pages). Run the full profile to look at them.
+  not reached by links: /mijn-account/[*]/[*] (16 pages). Run the full profile to look at them.
+  not reached by links: /landen/[*]/[*]/[*] (13 pages). Run the full profile to look at them.
+  not reached by links: /jaarplaatsen/[*]/[*] (8 pages). Run the full profile to look at them.
+
+Capture plan: 77 pages (77 added by hand).

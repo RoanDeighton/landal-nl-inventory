@@ -1,0 +1,76 @@
+[
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Clowance 4-persoons boomhut 4CTH The Treehouse",
+    "digest": "h3p0i8a8b3f1",
+    "tag": "section",
+    "classes": "content-top",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 162,
+    "width": 1440,
+    "height": 617
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "heading": "Prijzen en beschikbaarheid",
+    "digest": "h8p3i0a0b7f0",
+    "tag": "section",
+    "classes": "main-content",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 779,
+    "width": 1440,
+    "height": 1909
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Service & contact",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 2708,
+    "width": 1440,
+    "height": 1564
+  }
+]

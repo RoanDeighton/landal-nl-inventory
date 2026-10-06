@@ -1,0 +1,103 @@
+[
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Jouw vakantie bij Landal",
+    "digest": "h1p0i0a0b0f0",
+    "tag": "section",
+    "classes": "content-top",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 80,
+    "width": 1440,
+    "height": 260
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Nederland ontdekken op eigen tempo",
+    "digest": "h1p0i0a8b0f0",
+    "tag": "div",
+    "classes": "o-page-panel u-background-color-primary o-region o-region--small",
+    "backgroundColor": "rgb(255, 250, 233)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "10px",
+    "top": 340,
+    "width": 1440,
+    "height": 844
+  },
+  {
+    "path": "main>2",
+    "elPath": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "heading": "Ruim 260 parken in 8 landen",
+    "digest": "h1p0i0a8b0f0",
+    "tag": "div",
+    "classes": "o-page-panel u-background-color-primary o-region o-region--small",
+    "backgroundColor": "rgb(255, 250, 233)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "10px",
+    "top": 1194,
+    "width": 1440,
+    "height": 624
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Service & contact",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 1828,
+    "width": 1440,
+    "height": 1564
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1
+    ],
+    "heading": null,
+    "digest": "h0p0i0a0b0f0",
+    "tag": "div",
+    "classes": "c-image-background-layout",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 80,
+    "width": 1440,
+    "height": 540
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Alles voor je boeking",
+    "digest": "h7p0i8a8b0f0",
+    "tag": "div",
+    "classes": "o-page-panel o-dynamic-media-teaser o-region c-dynamic-media-teaser  o-page-panel--larger-padded u-background-color-primary   u-margin-bottom-none",
+    "backgroundColor": "rgb(255, 250, 233)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "60px",
+    "paddingBottom": "60px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 620,
+    "width": 1440,
+    "height": 750
+  },
+  {
+    "path": "main>2",
+    "elPath": [
+      1,
+      1,
+      3
+    ],
+    "heading": null,
+    "digest": "h0p0i0a1b0f0",
+    "tag": "div",
+    "classes": "o-page-panel c-search-and-book-filter c-search-and-book-filter--improved-readability",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "40px",
+    "paddingBottom": "20px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 1370,
+    "width": 1440,
+    "height": 264
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      4
+    ],
+    "heading": "Service & contact",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 1634,
+    "width": 1440,
+    "height": 1564
+  }
+]

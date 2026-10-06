@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "site": {
+    "url": "https://www.landal.nl"
+  },
+  "scope": {
+    "locale": "nl",
+    "subdomains": [],
+    "skip": []
+  },
+  "depth": "standard",
+  "survey": {
+    "maxMinutes": null,
+    "maxPages": null
+  },
+  "capture": {
+    "perTemplate": 3,
+    "coverage": true,
+    "maxPages": 100
+  },
+  "content": {
+    "depth": "placement",
+    "variants": true,
+    "language": "en"
+  },
+  "publish": {
+    "mode": "public-repo",
+    "repo": "landal-nl-inventory",
+    "visibility": "public"
+  },
+  "checkIns": "every-stage",
+  "crawl": {
+    "permission": "public"
+  },
+  "audience": "link"
+}
